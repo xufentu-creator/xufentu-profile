@@ -1,32 +1,62 @@
+你好，我是涂绪芬。
+
+如果一定要给我一个身份，大概是这样：
+一个对“人类为什么这样思考”好奇到停不下来的人。
+这种好奇心把我带进了一个跨学科世界——
+不是学术的世界，而是现实的世界。
+
+我在不同国家生活、迁移、观察、记录，
+从真实环境里看见认知如何运作、情绪如何影响选择、
+人如何在噪音中失去自己，又如何重新找回清晰。
+
+这些不是理论，是现实的实验；
+不是书本，是生活本身。
+
+慢慢地，我形成了自己的框架与方向：
+我关心人类的认知演化、数字身份、系统边界、
+以及人在高速变化中的稳定性。
+
+这个仓库对我来说，是一个“公开思考的地方”，
+记录概念如何形成、结构如何生长、
+以及我怎样理解人类在时代更新中的位置。
+
+如果你也在探索 cognition、identity、future systems，
+或者只是想知道现代世界里如何保持“真实的人类状态”，
+我们可能会聊得很好。
+
+— 涂绪芬 Xufen Tu
+ENS：xufentu.eth
+Notion：https://www.notion.so/Interdisciplinary-Future-Systems-Researcher-2bb744252abc805b8c2ef0a4b98ac3bf?source=copy_link
+
+⸻
+
 Hi, I’m Xufen Tu.
 
-I spend most of my time trying to understand how people think, decide, and stay balanced in a world that’s moving faster than our brains were originally designed for.  
-None of this came from a formal field — it came from years of observing real decisions, real pressure, and the way humans adapt when the environment becomes confusing.
+If I had to describe myself, I’d say this:
+I’m someone who became too curious about why humans think the way they do—
+and ended up walking into an interdisciplinary world
+built not from theory, but from real life.
 
-My work always starts from one place:  
-“How does a human stay clear, stable, and self-directed in a system full of noise?”
+I’ve lived across different countries,
+watching how people decide, adapt, break, rebuild,
+and try to remain themselves in systems that move faster than they can process.
 
-From there，我慢慢形成了一些自己的路径与结构：  
-- how cognitive evolution happens in everyday life  
-- how people regain clarity when decisions get too complicated  
-- how identity stays intact under digital systems  
-- how emotional states influence long-term choices  
-- how humans interact with automated systems without losing themselves
+My work comes from observation, not textbooks—
+from lived experience, not frameworks.
 
-这些不是书上来的，而是我自己长期实践、记录、推敲得出的经验。  
-很多模型、想法、词语，最初都只是我在不同国家生活时写下的笔记，  
-后来串起来，变成了我探索的几个方向：  
-认知进化、人类中心的系统架构、数字身份安全、决策路径、以及跨学科的未来研究。
+Over time, these observations formed their own structure:
+I study cognition, identity, digital boundaries,
+and how humans stay stable in a world full of noise.
 
-I treat this repository as my “thinking archive”—  
-a place to leave traces of how I build ideas, what I observe, and how each concept gradually forms its structure.  
-Everything here is written, revised, and explained by me personally.  
-If someone finds these ideas useful in the future, I hope they can also trace them back to their original context:  
-a human trying to understand how humans work.
+This repository is my “thinking space,”
+a place to document how ideas form,
+how models evolve,
+and how I understand the human system in an accelerating era.
 
-If you’re working on similar questions — cognition, identity, future systems, or simply how to stay human in an automated era — feel free to say hello.  
-I’m always open to conversations about how people think, learn, and evolve.
-Most of what I write comes from long periods of living in different countries,
-observing how people adapt to pressure, and trying to understand my own mind along the way.
-If one day someone finds value in these ideas, I hope they can feel the human trail behind them —
-the notes, the doubts, the experiments, and the small pieces of clarity collected on the road.
+If you’re exploring cognition, identity, or future systems—
+or simply trying to understand how to stay human in a modern world—
+we’ll probably have a good conversation.
+
+— Xufen Tu
+ENS：xufentu.eth
+Notion：https://www.notion.so/Interdisciplinary-Future-Systems-Researcher-2bb744252abc805b8c2ef0a4b98ac3bf?source=copy_link
