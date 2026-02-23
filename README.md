@@ -1,6 +1,5 @@
 # Xufen Tu  
-Independent Interdisciplinary Researcher  
-AI Governance & Complex Systems Research  
+Independent Interdisciplinary Researcher AI Governance & Complex Systems Research  
 
 Public Verification Anchor: xufentu.eth  
 
@@ -8,10 +7,8 @@ Public Verification Anchor: xufentu.eth
 
 ## Selected Research
 
-Human Judgment as a Structural Constraint in Automated Decision Systems  
-Repository: https://github.com/xufentu-creator/judgment-as-structural-constraint  
-Canonical Citation Target:  
-https://github.com/xufentu-creator/judgment-as-structural-constraint  
+Human Judgment as a Structural Constraint in Automated Decision Systems Repository: https://github.com/xufentu-creator/judgment-as-structural-constraint  
+Canonical Citation Target: https://github.com/xufentu-creator/judgment-as-structural-constraint  
 
 ---
 
