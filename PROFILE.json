@@ -1,0 +1,65 @@
+{
+  "name": {
+    "zh": "涂绪芬",
+    "en": "Xufen Tu"
+  },
+  "role": {
+    "zh": "独立跨学科研究者",
+    "en": "Independent Interdisciplinary Researcher"
+  },
+  "primary_field": {
+    "zh": "人工智能治理与复杂系统研究",
+    "en": "AI Governance and Complex Systems Research"
+  },
+  "professional_classification": "Independent academic researcher",
+  "research_nature": "Theoretical and analytical work in AI governance and complex systems",
+  "research_overview": {
+    "zh": "从事人工智能治理与复杂系统研究，聚焦数字身份系统、人机边界以及认知系统在复杂环境中的演化机制。研究致力于识别高不确定技术与社会结构中的结构性风险与可解释模型。",
+    "en": "Engaged in research on AI governance and complex systems, focusing on digital identity systems, human-machine boundaries, and the evolution of cognitive systems in complex environments. The work aims to identify structural risks and interpretable models within highly uncertain technological and social architectures."
+  },
+  "research_domains": [
+    "AI governance",
+    "Complex systems",
+    "Digital identity systems",
+    "Human-machine boundaries",
+    "Cognitive systems research",
+    "Decision architecture analysis",
+    "Structural risk modeling"
+  ],
+  "theoretical_frameworks": {
+    "core_theory": "Structural Cognition Theory",
+    "sub_models": [
+      "Cognitive Evolution Framework",
+      "Perception-Driven Value System",
+      "Primary Cognitive Signature System",
+      "Human Decision Architecture",
+      "Neuro-Emotional Regulation Model"
+    ]
+  },
+  "digital_protocols": [
+    "Primary Frequency Interface Protocol (PFIP)",
+    "Non-Personal Digital Identity Model",
+    "Multi-System / Multi-Interface Architecture"
+  ],
+  "methodology": {
+    "zh": "基于长期跨领域实践与结构化记录，结合系统建模与跨文化观察方法，强调复杂系统中的决策稳定性与结构性风险识别。",
+    "en": "Based on long-term cross-domain practice and structured documentation, integrating systems modeling and cross-cultural observation, emphasizing decision stability and structural risk identification in complex systems."
+  },
+  "professional_background": {
+    "zh": "拥有十年以上工程与智能硬件相关实践经验，涉及制造、项目管理与技术系统环境。",
+    "en": "Over ten years of experience in engineering and intelligent hardware-related environments, including manufacturing, project management, and technical system operations."
+  },
+  "archival_verification": {
+    "ens_root": "tux133144.eth",
+    "ens_protocol": "pfip-tux133144.eth",
+    "ens_archive": "freq-sovereign.eth",
+    "public_verification_anchor": "xufentu.eth"
+  },
+  "canonical_reference": "https://github.com/xufentu-creator/judgment-as-structural-constraint",
+  "disclaimer": {
+    "zh": "所有理论模型仅用于复杂系统与认知结构的学术分析，不涉及医学诊断、心理治疗、行为干预或投资建议。",
+    "en": "All theoretical models are intended for academic analysis of complex systems and cognitive structures and do not constitute medical, psychological, behavioral, or investment advice."
+  },
+  "status": "active",
+  "version": "1.0"
+}
