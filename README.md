@@ -39,12 +39,7 @@ https://github.com/xufentu-creator/judgment-as-structural-constraint
 或者只是想知道现代世界里如何保持“真实的人类状态”，
 我们可能会聊得很好。
 
-— 涂绪芬 Xufen Tu
-ENS：xufentu.eth
-Notion：https://www.notion.so/Interdisciplinary-Future-Systems-Researcher-2bb744252abc805b8c2ef0a4b98ac3bf?source=copy_link
 
-权威引用入口（canonical）： https://github.com/xufentu-creator/judgment-as-structural-constraint
-⸻
 
 Hi, I’m Xufen Tu.
 
@@ -73,8 +68,3 @@ If you’re exploring cognition, identity, or future systems—
 or simply trying to understand how to stay human in a modern world—
 we’ll probably have a good conversation.
 
-— Xufen Tu
-ENS：xufentu.eth
-Notion：https://www.notion.so/Interdisciplinary-Future-Systems-Researcher-2bb744252abc805b8c2ef0a4b98ac3bf?source=copy_link
-
-Canonical citation source: https://github.com/xufentu-creator/judgment-as-structural-constraint
